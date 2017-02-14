@@ -1,5 +1,0 @@
-﻿  bank.cpp
-d:\university\ee205\labs\lab 2\project1\project1\bank.cpp(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-d:\university\ee205\labs\lab 2\project1\project1\bank.cpp(24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  Project1.vcxproj -> D:\University\EE205\Labs\Lab 2\Project1\Debug\Project1.exe
-  Project1.vcxproj -> D:\University\EE205\Labs\Lab 2\Project1\Debug\Project1.pdb (Partial PDB)

@@ -1,0 +1,23 @@
+Things we've talked about:
+ - OS Command Injection
+ - Incorrect Permission Assignment for Critical Resource
+ - Use of Potentially Dangerous Function
+ - Incorrect Calculation of Buffer Size
+ - Uncontrolled Format String
+ - Integer Overflow or Wraparound
+
+Buffer Overflow:
+  Buffer overflow can be dangerous to the security of a network or program. Security is the cornerstone of any project and cannot be negelected.
+  If neglected, security can be the downfall of your company. 
+  As a programmer, it is important to understand the limitations of your code and to write optimal code.
+  When writing the code for a program, it is important to take into account necessary inputs and conditions.
+  For instance, the programmer should take into account data type size at any given point in the program.
+  If not, the programmer runs the risk of heading into buffer overflow.
+
+Favorite Vulnerability:
+  Personally, I find the hard-coding of credentials interesting. When testing code,
+  it is normal to hard-code some test cases in order to stress test your program.
+  It can be common for these hard-coded lines to make it through debugging and get to production.
+  If the programmer is not diligent in maintaining their code, this is an easy vulnerability to
+  intercept. Programmers should not allow themselves to fall into a sense of safety when there is so much risk on maintaining a system.
+  Code should be written as well as possible the first time and well documented to ensure proper extensibility when time allows.

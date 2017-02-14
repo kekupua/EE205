@@ -48,7 +48,11 @@ int main()
 	std::cout << "-------------------------------\n";
 	std::cout << "integer: \t\t " << sizeof(int) << '\n';
   std::cout << "-------------------------------\n";
+	std::cout << "integer: \t\t " << sizeof(long int) << '\n';
+  std::cout << "-------------------------------\n";
 	std::cout << "float: \t\t\t " << sizeof(float) << '\n';
+  std::cout << "-------------------------------\n";
+	std::cout << "float: \t\t\t " << sizeof(long float) << '\n';
   std::cout << "-------------------------------\n";
 	std::cout << "double: \t\t " << sizeof(double) << '\n';
   std::cout << "-------------------------------\n";
