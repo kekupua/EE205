@@ -1,0 +1,2 @@
+In RPN as stack, the operands are first input into the stack. Next the operator goes into the stack.
+Then, using the process of First-In-Last-out, the operator is pulled out first and then the operation is conducted by pulling out the operands. 

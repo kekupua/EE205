@@ -1,0 +1,64 @@
+(For m = 4, n = 0)
+Inside m = 4
+Inside m = 3 & n = 1
+Inside m = 3
+Inside m = 2 & n = 1
+Inside m = 2
+Inside m = 1 & n = 1
+Inside m = 1
+Inside m = 1 & n = 3
+Inside m = 1 & n = 2
+Inside m = 1 & n = 1
+Inside m = 1
+Inside m = 2 & n = 5
+Inside m = 2 & n = 4
+Inside m = 2 & n = 3
+Inside m = 2 & n = 2
+Inside m = 2 & n = 1
+Inside m = 2
+Inside m = 1 & n = 1
+Inside m = 1
+Inside m = 1 & n = 3
+Inside m = 1 & n = 2
+Inside m = 1 & n = 1
+Inside m = 1
+Inside m = 1 & n = 5
+Inside m = 1 & n = 4
+Inside m = 1 & n = 3
+Inside m = 1 & n = 2
+Inside m = 1 & n = 1
+Inside m = 1
+Inside m = 1 & n = 7
+Inside m = 1 & n = 6
+Inside m = 1 & n = 5
+Inside m = 1 & n = 4
+Inside m = 1 & n = 3
+Inside m = 1 & n = 2
+Inside m = 1 & n = 1
+Inside m = 1
+Inside m = 1 & n = 9
+Inside m = 1 & n = 8
+Inside m = 1 & n = 7
+Inside m = 1 & n = 6
+Inside m = 1 & n = 5
+Inside m = 1 & n = 4
+Inside m = 1 & n = 3
+Inside m = 1 & n = 2
+Inside m = 1 & n = 1
+Inside m = 1
+Inside m = 1 & n = 11
+Inside m = 1 & n = 10
+Inside m = 1 & n = 9
+Inside m = 1 & n = 8
+Inside m = 1 & n = 7
+Inside m = 1 & n = 6
+Inside m = 1 & n = 5
+Inside m = 1 & n = 4
+Inside m = 1 & n = 3
+Inside m = 1 & n = 2
+Inside m = 1 & n = 1
+Inside m = 1
+The answer is: 13
+
+
+The program is infinite past the sum of m+n >= 5

@@ -1,0 +1,11 @@
+Didn't include string library
+Missing constructor for Token(char,string)
+Broken quit and let case in get switch statement
+Missing bracket at end of main
+Had to compile with -std=gnu++11
+Ex: 5 2 * gives 2
+Program gives the answer one line later then expected
+Program doesn't know how to handle operators after operands properly. When given an operator after operands, it says 'primary expected'
+However, program does handle giving operators between operands but not anything else
+Also, parentheses don't seem to work as intended
+If you hit an error such as bad token or primary expected, the buffer doesn't clear unless you hit ;
